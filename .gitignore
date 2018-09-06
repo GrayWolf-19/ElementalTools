@@ -6,3 +6,9 @@ gradle/
 .classpath/
 .project/
 build.gradle/
+CREDITS-fml.txt/
+ElementalTools_Client.launch/
+ElementalTools_Server.launch/
+gradle.properties/
+gradlew/
+gradlew.bat/
