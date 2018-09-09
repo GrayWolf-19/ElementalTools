@@ -1,1 +1,12 @@
+
+//-------------Items--------------//
+item.amethyst.name=Amethyst
+item.aquamarine.name=Aquamarine
 item.citrine.name=Citrine
+item.garnet.name=Garnet
+item.opal.name=Opal
+item.peridot.name=Peridot
+item.ruby.name=Ruby
+item.sapphire.name=Sapphire
+item.topaz.name=Topaz
+item.white_quartz.name=White Quartz
