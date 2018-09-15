@@ -10,3 +10,16 @@ item.ruby.name=Ruby
 item.sapphire.name=Sapphire
 item.topaz.name=Topaz
 item.white_quartz.name=White Quartz
+
+
+//-------------Blocks--------------//
+tile.amethyst_ore.name=Amethyst Ore
+tile.aquamarine_ore.name=Aquamarine Ore
+tile.citrine_ore.name=Citrine Ore
+tile.garnet_ore.name=Garnet Ore
+tile.opal_ore.name=Opal Ore
+tile.peridot_ore.name=Peridot Ore
+tile.ruby_ore.name=Ruby Ore
+tile.sapphire_ore.name=Sapphire Ore
+tile.topaz_ore.name=Topaz Ore
+tile.white_quartz_ore.name=White Quartz Ore
