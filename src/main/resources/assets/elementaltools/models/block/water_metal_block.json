@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "elementaltools:blocks/water_metal_block"
+   }
+}

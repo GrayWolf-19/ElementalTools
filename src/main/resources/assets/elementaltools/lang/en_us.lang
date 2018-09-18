@@ -11,6 +11,17 @@ item.sapphire.name=Sapphire
 item.topaz.name=Topaz
 item.white_quartz.name=White Quartz
 
+item.shadow_metal_ingot.name=Umbrasteel Ingot
+item.ice_metal_ingot.name=Glacisteel Ingot
+item.earth_metal_ingot.name=Terrasteel Ingot
+item.magnet_metal_ingot.name=Magnesteel Ingot
+item.light_metal_ingot.name=Luxsteel Ingot
+item.grass_metal_ingot.name=Silvasteel Ingot
+item.fire_metal_ingot.name=Ignisteel Ingot
+item.water_metal_ingot.name=Aquasteel Ingot
+item.electric_metal_ingot.name=Electristeel Ingot
+item.air_metal_ingot.name=Aeristeel Ingot
+
 
 //-------------Blocks--------------//
 tile.amethyst_ore.name=Amethyst Ore
@@ -23,3 +34,14 @@ tile.ruby_ore.name=Ruby Ore
 tile.sapphire_ore.name=Sapphire Ore
 tile.topaz_ore.name=Topaz Ore
 tile.white_quartz_ore.name=White Quartz Ore
+
+tile.shadow_metal_block.name=Umbrasteel Block
+tile.ice_metal_block.name=Glacisteel Block
+tile.earth_metal_block.name=Terrasteel Block
+tile.magnet_metal_block.name=Magnesteel Block
+tile.light_metal_block.name=Luxsteel Block
+tile.grass_metal_block.name=Silvasteel Block
+tile.fire_metal_block.name=Ignisteel Block
+tile.water_metal_block.name=Aquasteel Block
+tile.electric_metal_block.name=Electristeel Block
+tile.air_metal_block.name=Aeristeel Block

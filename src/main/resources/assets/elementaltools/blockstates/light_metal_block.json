@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "elementaltools:light_metal_block" }
+    }
+}

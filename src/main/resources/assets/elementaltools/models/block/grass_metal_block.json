@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "elementaltools:blocks/grass_metal_block"
+   }
+}

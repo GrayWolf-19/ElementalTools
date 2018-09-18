@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "elementaltools:blocks/fire_metal_block"
+   }
+}
